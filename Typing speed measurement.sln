@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Typing speed measurement", "Typing speed measurement", "{C55E5573-95B3-4324-8B7E-2612285C9FC1}"
+	ProjectSection(SolutionItems) = preProject
+		Index.html = Index.html
+		Script.js = Script.js
+		style.css = style.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5034B0D-291C-4706-ABF2-8CA134830508}
+	EndGlobalSection
+EndGlobal
